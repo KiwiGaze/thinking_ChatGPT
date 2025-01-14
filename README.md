@@ -1,6 +1,6 @@
 # Thinking ChatGPT
 ## Purpose
-Thinking ChatGPT is inspired by the "Thinking Claude" project [link]. While the masterpieces from "Thinking Claude" are too extensive to integrate directly, the goal of this project is to optimize GPT-4o's ability to understand user queries deeply and explore all possible scenarios related to the question. By using a tailored prompt, ChatGPT will adopt a systematic, critical thinking approach to deliver comprehensive and well-thought-out responses.
+Thinking ChatGPT is inspired by the "Thinking Claude" project [Thinking Claude](https://github.com/richards199999/Thinking-Claude). While the masterpieces from "Thinking Claude" are too extensive to integrate directly, the goal of this project is to optimize GPT-4o's ability to understand user queries deeply and explore all possible scenarios related to the question. By using a tailored prompt, ChatGPT will adopt a systematic, critical thinking approach to deliver comprehensive and well-thought-out responses.
 
 ## Usage
 Memorize the Prompt
